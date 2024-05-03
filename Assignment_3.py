@@ -73,7 +73,7 @@ lemmatizer = WordNetLemmatizer()
 # In[19]:
 
 
-str2 = "Playing and Singing both with Two girls and fuck mice"
+str2 = "Playing and Singing both with Two girls and stop the running mice"
 str2 = nltk.word_tokenize(str2)
 
 
